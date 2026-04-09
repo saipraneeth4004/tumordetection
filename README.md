@@ -30,6 +30,7 @@ This project is a basic implementation of a Convolutional Neural Network (CNN) t
 
   * `tumor`
   * `no_tumor`
+  dataset link:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 * Images are resized to **224 x 224**
 
